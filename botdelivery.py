@@ -53,4 +53,4 @@ async def on_ready():
 
 
 print(f'{datetime.now()} BOT START')
-bot.run('OTMwNzcxMTQzODEwNDk4NjAw.Yd6uLQ.PMcl5jr4rs1Tm4_8qiG4hufLcxE')
+bot.run('TOKEN')
